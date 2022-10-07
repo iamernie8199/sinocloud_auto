@@ -11,3 +11,6 @@ webdriver_manager~=3.8.3
 - TCRI下載
 - 每日TSI自動檢核表
 - 券商利關人查詢
+
+## exe打包指令
+pyinstaller -F .\檔名 --icon=.\icon檔名 --onefile
