@@ -7,6 +7,10 @@
 - requests~=2.28.1
 - webdriver_manager~=3.8.3
 
+## Usage
+1. 設定json檔
+2. 執行對應功能檔案
+
 ## 已完成
 - TCRI下載
 - 每日TSI自動檢核表
